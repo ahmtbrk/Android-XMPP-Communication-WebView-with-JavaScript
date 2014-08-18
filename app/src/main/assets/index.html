@@ -1,0 +1,21 @@
+<html>
+<head>
+    <script type="text/javascript">
+	
+        function changeText(deger){
+            document.getElementById('test1').innerHTML = deger;
+        }
+
+        function sendMainUsersInfoPacket() {
+            MyHandler.sendMainUsersInfoPacket();
+        }
+
+
+    </script>
+</head>
+<body>
+
+<h6 id="test1">Hello World</h6></br>
+<input type="button" value="getMainUsersInfo" onClick="sendMainUsersInfoPacket()" />
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ahmet Burak\XMPPClient\app\build\intermediates\pre-dexed\debug\gson-2.2.4-e280a583676b6db1986b3f9b3bc5bfb3490608c8.jar"
+        jar="C:\Users\Ahmet Burak\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Users\Ahmet Burak\XMPPClient\app\build\intermediates\pre-dexed\debug\asmack-android-19-0.8.10-1a07236c3065abe72a022605f98caf6f2adb9f7a.jar"
+        jar="C:\Users\Ahmet Burak\XMPPClient\app\libs\asmack-android-19-0.8.10.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a97f7acb22f084f8b7679c190dd235f31d7f3e7b"/>
+    <item
+        dex="C:\Users\Ahmet Burak\XMPPClient\app\build\intermediates\pre-dexed\debug\commons-codec-1.8-209b582ae7398ee856571fd38714ff4f28baab37.jar"
+        jar="C:\Users\Ahmet Burak\XMPPClient\app\libs\commons-codec-1.8.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af3be3f74d25fc5163b54f56a0d394b462dafafd"/>
+
+</pre-dex-items>
